@@ -4,3 +4,4 @@ mars_temp <- read.csv("mars.txt")
 
 #linear regression of temperature and humidity for the mummy
 
+#The cat wants to bring canned food to Mars.
